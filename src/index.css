@@ -1,0 +1,7 @@
+/* Importing Bootstrap */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* Custom global styles (optional) */
+body {
+  font-family: 'Arial', sans-serif;
+}
